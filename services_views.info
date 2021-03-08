@@ -1,0 +1,13 @@
+name = Services Views
+description = Build service endpoints with Views.
+package = Services
+backdrop = 1.x
+type = module
+php = 5.x
+dependencies[] = services
+dependencies[] = views
+
+; Information added by Drupal.org packaging script on 2019-11-14
+version = "1.x-1.4"
+project = "services_views"
+timestamp = "1573747401"
